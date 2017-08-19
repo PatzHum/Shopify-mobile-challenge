@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shopify Mobile Challenge</string>
+    <string name="findTotalTitleText">Total spent by name</string>
+    <string name="findTotalButtonText">Find Total</string>
+    <string name="findFirstNameHint">FIRST NAME</string>
+    <string name="findLastNameHint">LAST NAME</string>
+    <string name="totalCaptionText">Total:</string>
+    <string name="totalItemsTitleText">Total items sold</string>
+    <string name="itemNameHint">ITEM NAME</string>
+    <string name="itemsSoldButtonText">Find items sold</string>
+    <string name="totalItemsText">Number of Items Sold:</string>
+    <string name="ok">OK</string>
+    <string name="try_again">Try Again</string>
+    <string name="permissions_failed_warning">Aaaah we need your permissions.</string>
+    <string name="challengeTitleText">Shopify Mobile Challenge</string>
+</resources>
